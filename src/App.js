@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welocome <code>To </code>NSSKA.
+          Welocome <code>to dhruvs </code>World.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          World Begins here
+          Faad denge aram se 
         </a>
       </header>
     </div>
